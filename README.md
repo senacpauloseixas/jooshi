@@ -1,0 +1,2 @@
+# jooshi
+exercicios diversos 
